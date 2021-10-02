@@ -1,0 +1,17 @@
+.error {
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #151280;
+  }
+.Signin {
+  color: #151280;
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid black;
+  border-color: #151280;
+  background-color: #fff;
+
+}
