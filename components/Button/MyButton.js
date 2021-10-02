@@ -11,12 +11,3 @@ function MyButton(props) {
 }
 
 export default MyButton
-
-// const styles = makeStyles.create({
-//     button: {
-//         width: '100',
-//         height: scale(56),
-//         borderRadius: scale(15),
-//         marginVertical: 10,
-//     },
-// })

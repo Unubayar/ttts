@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Header from '../components/Header'
 import Mainactivity from '../components/Mainactivity'
 import Table from '../components/Table'
+import Prac from '../components/Prac'
 
 export default function Home() {
   return (
@@ -13,7 +14,8 @@ export default function Home() {
       </Head>
       <Header />
       <Mainactivity />
-      <Table />
+      <Prac />
+      {/* <Table /> */}
     </div>
   )
 }
